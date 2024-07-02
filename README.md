@@ -1,3 +1,7 @@
+
+<h1 align="center">Hi 👋, I'm Oussama Tahiri</h1>
+<h3 align="center">A passionate Full-Stack developer and a soon Mern-Stack developer from Morocco</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning Recat.js, Vue.js, Angular.js ...<br>📫 How to reach me tahiri.oussama007@gmail.com<br>
 
